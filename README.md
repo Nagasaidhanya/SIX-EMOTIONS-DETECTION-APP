@@ -20,5 +20,6 @@ label_encoder.pkl: Pickle file containing the label encoder.
 Enter text in the input box.
 Click the "Predict" button to see the predicted emotion and probability.
 
-DEMO:https://nagasaidhanya-six-emotions-detection-app-app-svtb42.streamlit.app/
+##DEMO:
+https://nagasaidhanya-six-emotions-detection-app-app-svtb42.streamlit.app/
 
